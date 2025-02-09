@@ -52,9 +52,3 @@ This project is a Hangman game developed with React and TypeScript. Players try 
 - Implement mobile support with interactive buttons.
 - Enhance the interface and animations.
 
-## Contribution
-Feel free to contribute! Fork the repository, create a branch, and submit a pull request with your improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
