@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman Game 🎮
 
 This project is a Hangman game developed with React and TypeScript. Players try to guess words related to front-end development while avoiding too many mistakes.
 
