@@ -49,6 +49,5 @@ This project is a Hangman game developed with React and TypeScript. Players try 
 ## Future Improvements
 - Add more word categories.
 - Create a hint system to assist players.
-- Implement mobile support with interactive buttons.
 - Enhance the interface and animations.
 
