@@ -1,7 +1,15 @@
 import { useState, useEffect, useCallback } from "react";
 import './Hangman.css';
 
-const words = ["react", "typescript", "node", "javascript", "frontend"];
+const words = [
+  "react",
+  "typescript",
+  "node",
+  "javascript",
+  "frontend",
+  "development",
+  "game",
+];
 const maxErrors = 10;
 
 const getRandomWord = () => words[Math.floor(Math.random() * words.length)];
